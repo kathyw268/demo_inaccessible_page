@@ -1,0 +1,21 @@
+.main-header {
+  background: #f4f5f6;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  width: 100%;
+}
+
+.navigation ul {
+  text-align: center;
+}
+.navigation li {
+  display: inline-block;
+  list-style: none;
+  padding: 1rem .5rem;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
